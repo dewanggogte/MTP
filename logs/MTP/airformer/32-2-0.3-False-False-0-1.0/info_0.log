@@ -1,0 +1,62 @@
+2023-04-20 03:33:05,356 - src.base.trainer - INFO - the number of parameters: 78636
+2023-04-20 03:33:05,376 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 03:35:56,084 - src.base.trainer - INFO - the number of parameters: 74267
+2023-04-20 03:35:56,110 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 03:39:15,121 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:15,122 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:15,356 - src.base.trainer - INFO - Epoch [0/250] (85) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 199.0s
+2023-04-20 03:39:15,408 - src.base.trainer - INFO - Val loss decrease from inf to 0.0000, saving to True
+2023-04-20 03:39:21,776 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:21,777 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:22,030 - src.base.trainer - INFO - Epoch [1/250] (170) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 6.4s
+2023-04-20 03:39:27,705 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:27,706 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:27,898 - src.base.trainer - INFO - Epoch [2/250] (255) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000125, 5.7s
+2023-04-20 03:39:31,730 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:31,731 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:31,980 - src.base.trainer - INFO - Epoch [3/250] (340) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000250, 3.8s
+2023-04-20 03:39:35,784 - src.base.trainer - INFO - Epoch [4/250] (400) train_mae: 0.0000, val_mae: 0.0000 
+2023-04-20 03:39:37,435 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:37,435 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:37,703 - src.base.trainer - INFO - Epoch [4/250] (425) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000250, 5.5s
+2023-04-20 03:39:43,062 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:43,063 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:43,260 - src.base.trainer - INFO - Epoch [5/250] (510) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000063, 5.4s
+2023-04-20 03:39:43,261 - src.base.trainer - INFO - Early stop at epoch 6, loss = 0.000000
+2023-04-20 03:42:16,663 - src.base.trainer - INFO - the number of parameters: 80812
+2023-04-20 03:42:16,675 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 03:42:23,379 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:23,380 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:23,630 - src.base.trainer - INFO - Epoch [0/250] (83) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 6.7s
+2023-04-20 03:42:23,700 - src.base.trainer - INFO - Val loss decrease from inf to 0.0000, saving to True
+2023-04-20 03:42:28,794 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:28,795 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:29,391 - src.base.trainer - INFO - Epoch [1/250] (166) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 5.1s
+2023-04-20 03:42:34,082 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:34,083 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:34,250 - src.base.trainer - INFO - Epoch [2/250] (249) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000125, 4.7s
+2023-04-20 03:42:38,947 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:38,948 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:39,276 - src.base.trainer - INFO - Epoch [3/250] (332) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000250, 4.7s
+2023-04-20 03:42:43,533 - src.base.trainer - INFO - Epoch [4/250] (400) train_mae: 0.0000, val_mae: 0.0000 
+2023-04-20 03:42:44,310 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:44,310 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:44,499 - src.base.trainer - INFO - Epoch [4/250] (415) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000250, 5.0s
+2023-04-20 03:42:49,517 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:49,518 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:49,704 - src.base.trainer - INFO - Epoch [5/250] (498) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000063, 5.0s
+2023-04-20 03:42:49,705 - src.base.trainer - INFO - Early stop at epoch 6, loss = 0.000000
+2023-04-20 03:45:31,720 - src.base.trainer - INFO - the number of parameters: 80812
+2023-04-20 03:45:31,729 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 03:49:10,962 - src.base.trainer - INFO - the number of parameters: 80812
+2023-04-20 03:49:10,973 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 03:49:16,754 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:49:16,755 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:49:16,934 - src.base.trainer - INFO - Epoch [0/250] (83) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 5.8s
+2023-04-20 03:49:16,995 - src.base.trainer - INFO - Val loss decrease from inf to 0.0000, saving to True
+2023-04-20 03:49:23,756 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:49:23,758 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:49:24,249 - src.base.trainer - INFO - Epoch [1/250] (166) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000500, 6.8s
+2023-04-20 03:49:28,321 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:49:28,322 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:49:28,483 - src.base.trainer - INFO - Epoch [2/250] (249) train_mae: 0.0000, val_mae: 0.0000, lr: 0.000000, 4.1s

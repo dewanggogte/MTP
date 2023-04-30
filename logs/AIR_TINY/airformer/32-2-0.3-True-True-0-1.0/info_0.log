@@ -1,0 +1,264 @@
+2023-04-20 00:35:24,287 - src.base.trainer - INFO - the number of parameters: 231951
+2023-04-20 00:35:24,768 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 00:39:14,890 - src.base.trainer - INFO - epoch complete
+2023-04-20 00:39:14,894 - src.base.trainer - INFO - evaluating now!
+2023-04-20 00:40:28,121 - src.base.trainer - INFO - Epoch [0/250] (2) train_mae: 59.0815, val_mae: 65.2818, lr: 0.000500, 230.1s
+2023-04-20 00:40:28,354 - src.base.trainer - INFO - Val loss decrease from inf to 65.2818, saving to True
+2023-04-20 00:44:31,111 - src.base.trainer - INFO - epoch complete
+2023-04-20 00:44:31,114 - src.base.trainer - INFO - evaluating now!
+2023-04-20 00:45:39,559 - src.base.trainer - INFO - Epoch [1/250] (4) train_mae: 56.0584, val_mae: 63.9741, lr: 0.000500, 242.8s
+2023-04-20 00:45:39,719 - src.base.trainer - INFO - Val loss decrease from 65.2818 to 63.9741, saving to True
+2023-04-20 00:49:42,532 - src.base.trainer - INFO - epoch complete
+2023-04-20 00:49:42,534 - src.base.trainer - INFO - evaluating now!
+2023-04-20 00:50:54,762 - src.base.trainer - INFO - Epoch [2/250] (6) train_mae: 54.5465, val_mae: 63.3025, lr: 0.000125, 242.8s
+2023-04-20 00:50:54,906 - src.base.trainer - INFO - Val loss decrease from 63.9741 to 63.3025, saving to True
+2023-04-20 00:54:54,476 - src.base.trainer - INFO - epoch complete
+2023-04-20 00:54:54,478 - src.base.trainer - INFO - evaluating now!
+2023-04-20 00:56:07,891 - src.base.trainer - INFO - Epoch [3/250] (8) train_mae: 54.4398, val_mae: 62.7473, lr: 0.000250, 239.6s
+2023-04-20 00:56:08,028 - src.base.trainer - INFO - Val loss decrease from 63.3025 to 62.7473, saving to True
+2023-04-20 00:58:17,600 - src.base.trainer - INFO - the number of parameters: 231951
+2023-04-20 00:58:18,122 - src.base.trainer - INFO - start training !!!!!
+2023-04-20 01:02:27,573 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:02:27,574 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:03:51,763 - src.base.trainer - INFO - Epoch [0/250] (2) train_mae: 58.8267, val_mae: 64.8430, lr: 0.000500, 249.4s
+2023-04-20 01:03:51,892 - src.base.trainer - INFO - Val loss decrease from inf to 64.8430, saving to True
+2023-04-20 01:07:49,452 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:07:49,459 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:09:08,988 - src.base.trainer - INFO - Epoch [1/250] (4) train_mae: 57.4705, val_mae: 63.9953, lr: 0.000500, 237.6s
+2023-04-20 01:09:09,118 - src.base.trainer - INFO - Val loss decrease from 64.8430 to 63.9953, saving to True
+2023-04-20 01:13:04,418 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:13:04,419 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:14:18,391 - src.base.trainer - INFO - Epoch [2/250] (6) train_mae: 54.1421, val_mae: 63.6213, lr: 0.000125, 235.3s
+2023-04-20 01:14:18,528 - src.base.trainer - INFO - Val loss decrease from 63.9953 to 63.6213, saving to True
+2023-04-20 01:18:16,954 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:18:16,964 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:19:35,360 - src.base.trainer - INFO - Epoch [3/250] (8) train_mae: 53.7007, val_mae: 62.9665, lr: 0.000250, 238.4s
+2023-04-20 01:19:35,495 - src.base.trainer - INFO - Val loss decrease from 63.6213 to 62.9665, saving to True
+2023-04-20 01:23:33,754 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:23:33,756 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:24:50,027 - src.base.trainer - INFO - Epoch [4/250] (10) train_mae: 54.4709, val_mae: 62.3035, lr: 0.000250, 238.3s
+2023-04-20 01:24:50,152 - src.base.trainer - INFO - Val loss decrease from 62.9665 to 62.3035, saving to True
+2023-04-20 01:28:42,233 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:28:42,235 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:29:55,426 - src.base.trainer - INFO - Epoch [5/250] (12) train_mae: 52.9497, val_mae: 61.7403, lr: 0.000063, 232.1s
+2023-04-20 01:29:55,552 - src.base.trainer - INFO - Val loss decrease from 62.3035 to 61.7403, saving to True
+2023-04-20 01:34:00,002 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:34:00,004 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:35:13,693 - src.base.trainer - INFO - Epoch [6/250] (14) train_mae: 52.3946, val_mae: 61.4819, lr: 0.000125, 244.4s
+2023-04-20 01:35:13,833 - src.base.trainer - INFO - Val loss decrease from 61.7403 to 61.4819, saving to True
+2023-04-20 01:39:17,992 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:39:17,997 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:40:35,139 - src.base.trainer - INFO - Epoch [7/250] (16) train_mae: 52.3214, val_mae: 61.3304, lr: 0.000125, 244.2s
+2023-04-20 01:40:35,278 - src.base.trainer - INFO - Val loss decrease from 61.4819 to 61.3304, saving to True
+2023-04-20 01:44:35,951 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:44:35,953 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:45:53,672 - src.base.trainer - INFO - Epoch [8/250] (18) train_mae: 53.0083, val_mae: 61.2143, lr: 0.000031, 240.7s
+2023-04-20 01:45:53,835 - src.base.trainer - INFO - Val loss decrease from 61.3304 to 61.2143, saving to True
+2023-04-20 01:49:49,312 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:49:49,315 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:51:07,581 - src.base.trainer - INFO - Epoch [9/250] (20) train_mae: 52.9172, val_mae: 61.1810, lr: 0.000063, 235.5s
+2023-04-20 01:51:07,696 - src.base.trainer - INFO - Val loss decrease from 61.2143 to 61.1810, saving to True
+2023-04-20 01:54:51,895 - src.base.trainer - INFO - epoch complete
+2023-04-20 01:54:51,897 - src.base.trainer - INFO - evaluating now!
+2023-04-20 01:56:05,513 - src.base.trainer - INFO - Epoch [10/250] (22) train_mae: 51.8037, val_mae: 61.1129, lr: 0.000063, 224.2s
+2023-04-20 01:56:05,629 - src.base.trainer - INFO - Val loss decrease from 61.1810 to 61.1129, saving to True
+2023-04-20 02:00:12,016 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:00:12,019 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:01:27,291 - src.base.trainer - INFO - Epoch [11/250] (24) train_mae: 51.8536, val_mae: 61.0854, lr: 0.000063, 246.4s
+2023-04-20 02:01:27,418 - src.base.trainer - INFO - Val loss decrease from 61.1129 to 61.0854, saving to True
+2023-04-20 02:05:26,958 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:05:26,960 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:06:46,611 - src.base.trainer - INFO - Epoch [12/250] (26) train_mae: 52.6152, val_mae: 61.0721, lr: 0.000063, 239.5s
+2023-04-20 02:06:46,721 - src.base.trainer - INFO - Val loss decrease from 61.0854 to 61.0721, saving to True
+2023-04-20 02:10:49,217 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:10:49,221 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:12:07,257 - src.base.trainer - INFO - Epoch [13/250] (28) train_mae: 51.9975, val_mae: 60.9856, lr: 0.000063, 242.5s
+2023-04-20 02:12:07,401 - src.base.trainer - INFO - Val loss decrease from 61.0721 to 60.9856, saving to True
+2023-04-20 02:16:14,002 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:16:14,004 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:17:33,098 - src.base.trainer - INFO - Epoch [14/250] (30) train_mae: 52.3441, val_mae: 60.9549, lr: 0.000063, 246.6s
+2023-04-20 02:17:33,240 - src.base.trainer - INFO - Val loss decrease from 60.9856 to 60.9549, saving to True
+2023-04-20 02:21:38,321 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:21:38,325 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:22:52,158 - src.base.trainer - INFO - Epoch [15/250] (32) train_mae: 51.8703, val_mae: 60.9073, lr: 0.000063, 245.1s
+2023-04-20 02:22:52,298 - src.base.trainer - INFO - Val loss decrease from 60.9549 to 60.9073, saving to True
+2023-04-20 02:26:49,695 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:26:49,701 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:27:51,731 - src.base.trainer - INFO - Epoch [16/250] (34) train_mae: 51.6519, val_mae: 60.8273, lr: 0.000063, 237.4s
+2023-04-20 02:27:51,840 - src.base.trainer - INFO - Val loss decrease from 60.9073 to 60.8273, saving to True
+2023-04-20 02:31:37,671 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:31:37,672 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:32:57,818 - src.base.trainer - INFO - Epoch [17/250] (36) train_mae: 52.5747, val_mae: 60.7811, lr: 0.000063, 225.8s
+2023-04-20 02:32:57,917 - src.base.trainer - INFO - Val loss decrease from 60.8273 to 60.7811, saving to True
+2023-04-20 02:36:48,322 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:36:48,324 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:38:05,809 - src.base.trainer - INFO - Epoch [18/250] (38) train_mae: 52.2187, val_mae: 60.7075, lr: 0.000063, 230.4s
+2023-04-20 02:38:05,932 - src.base.trainer - INFO - Val loss decrease from 60.7811 to 60.7075, saving to True
+2023-04-20 02:41:51,893 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:41:51,898 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:43:14,886 - src.base.trainer - INFO - Epoch [19/250] (40) train_mae: 51.6052, val_mae: 60.6242, lr: 0.000063, 226.0s
+2023-04-20 02:43:14,984 - src.base.trainer - INFO - Val loss decrease from 60.7075 to 60.6242, saving to True
+2023-04-20 02:46:59,037 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:46:59,039 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:47:57,077 - src.base.trainer - INFO - Epoch [20/250] (42) train_mae: 51.5317, val_mae: 60.5089, lr: 0.000063, 224.1s
+2023-04-20 02:47:57,242 - src.base.trainer - INFO - Val loss decrease from 60.6242 to 60.5089, saving to True
+2023-04-20 02:51:44,232 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:51:44,248 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:52:59,542 - src.base.trainer - INFO - Epoch [21/250] (44) train_mae: 51.4843, val_mae: 60.4415, lr: 0.000063, 227.0s
+2023-04-20 02:52:59,676 - src.base.trainer - INFO - Val loss decrease from 60.5089 to 60.4415, saving to True
+2023-04-20 02:57:00,964 - src.base.trainer - INFO - epoch complete
+2023-04-20 02:57:00,967 - src.base.trainer - INFO - evaluating now!
+2023-04-20 02:58:19,563 - src.base.trainer - INFO - Epoch [22/250] (46) train_mae: 51.2226, val_mae: 60.3636, lr: 0.000063, 241.3s
+2023-04-20 02:58:19,701 - src.base.trainer - INFO - Val loss decrease from 60.4415 to 60.3636, saving to True
+2023-04-20 03:02:15,103 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:02:15,104 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:03:33,749 - src.base.trainer - INFO - Epoch [23/250] (48) train_mae: 51.8311, val_mae: 60.2883, lr: 0.000063, 235.4s
+2023-04-20 03:03:33,879 - src.base.trainer - INFO - Val loss decrease from 60.3636 to 60.2883, saving to True
+2023-04-20 03:07:24,338 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:07:24,342 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:08:38,999 - src.base.trainer - INFO - Epoch [24/250] (50) train_mae: 51.0379, val_mae: 60.1859, lr: 0.000063, 230.5s
+2023-04-20 03:08:39,130 - src.base.trainer - INFO - Val loss decrease from 60.2883 to 60.1859, saving to True
+2023-04-20 03:12:16,708 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:12:16,720 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:13:38,810 - src.base.trainer - INFO - Epoch [25/250] (52) train_mae: 50.3226, val_mae: 60.0939, lr: 0.000063, 217.6s
+2023-04-20 03:13:38,921 - src.base.trainer - INFO - Val loss decrease from 60.1859 to 60.0939, saving to True
+2023-04-20 03:17:38,606 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:17:38,607 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:18:53,711 - src.base.trainer - INFO - Epoch [26/250] (54) train_mae: 51.0049, val_mae: 60.0212, lr: 0.000063, 239.7s
+2023-04-20 03:18:53,836 - src.base.trainer - INFO - Val loss decrease from 60.0939 to 60.0212, saving to True
+2023-04-20 03:23:09,399 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:23:09,404 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:24:24,355 - src.base.trainer - INFO - Epoch [27/250] (56) train_mae: 51.2556, val_mae: 59.9458, lr: 0.000063, 255.6s
+2023-04-20 03:24:24,488 - src.base.trainer - INFO - Val loss decrease from 60.0212 to 59.9458, saving to True
+2023-04-20 03:28:33,797 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:28:33,799 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:29:54,752 - src.base.trainer - INFO - Epoch [28/250] (58) train_mae: 50.5389, val_mae: 59.8831, lr: 0.000063, 249.3s
+2023-04-20 03:29:54,871 - src.base.trainer - INFO - Val loss decrease from 59.9458 to 59.8831, saving to True
+2023-04-20 03:33:55,471 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:33:55,475 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:35:09,948 - src.base.trainer - INFO - Epoch [29/250] (60) train_mae: 50.8742, val_mae: 59.8140, lr: 0.000063, 240.6s
+2023-04-20 03:35:10,065 - src.base.trainer - INFO - Val loss decrease from 59.8831 to 59.8140, saving to True
+2023-04-20 03:39:19,870 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:39:19,871 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:39:36,130 - src.base.trainer - INFO - Epoch [30/250] (62) train_mae: 50.5771, val_mae: 59.7468, lr: 0.000063, 249.8s
+2023-04-20 03:39:36,209 - src.base.trainer - INFO - Val loss decrease from 59.8140 to 59.7468, saving to True
+2023-04-20 03:40:22,860 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:40:22,861 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:40:36,575 - src.base.trainer - INFO - Epoch [31/250] (64) train_mae: 49.9282, val_mae: 59.6338, lr: 0.000063, 46.6s
+2023-04-20 03:40:36,662 - src.base.trainer - INFO - Val loss decrease from 59.7468 to 59.6338, saving to True
+2023-04-20 03:41:22,945 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:41:22,946 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:41:36,513 - src.base.trainer - INFO - Epoch [32/250] (66) train_mae: 50.8331, val_mae: 59.5278, lr: 0.000063, 46.3s
+2023-04-20 03:41:36,603 - src.base.trainer - INFO - Val loss decrease from 59.6338 to 59.5278, saving to True
+2023-04-20 03:42:23,811 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:42:23,812 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:42:40,373 - src.base.trainer - INFO - Epoch [33/250] (68) train_mae: 50.3976, val_mae: 59.4235, lr: 0.000063, 47.2s
+2023-04-20 03:42:40,474 - src.base.trainer - INFO - Val loss decrease from 59.5278 to 59.4235, saving to True
+2023-04-20 03:43:27,114 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:43:27,115 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:43:40,518 - src.base.trainer - INFO - Epoch [34/250] (70) train_mae: 50.4513, val_mae: 59.3153, lr: 0.000063, 46.6s
+2023-04-20 03:43:40,603 - src.base.trainer - INFO - Val loss decrease from 59.4235 to 59.3153, saving to True
+2023-04-20 03:44:25,379 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:44:25,383 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:44:38,744 - src.base.trainer - INFO - Epoch [35/250] (72) train_mae: 49.8834, val_mae: 59.1988, lr: 0.000063, 44.8s
+2023-04-20 03:44:38,832 - src.base.trainer - INFO - Val loss decrease from 59.3153 to 59.1988, saving to True
+2023-04-20 03:45:23,489 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:45:23,490 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:45:37,183 - src.base.trainer - INFO - Epoch [36/250] (74) train_mae: 50.1034, val_mae: 59.0822, lr: 0.000063, 44.7s
+2023-04-20 03:45:37,279 - src.base.trainer - INFO - Val loss decrease from 59.1988 to 59.0822, saving to True
+2023-04-20 03:46:20,873 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:46:20,874 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:46:34,152 - src.base.trainer - INFO - Epoch [37/250] (76) train_mae: 50.1420, val_mae: 58.9618, lr: 0.000063, 43.6s
+2023-04-20 03:46:34,238 - src.base.trainer - INFO - Val loss decrease from 59.0822 to 58.9618, saving to True
+2023-04-20 03:47:18,121 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:47:18,123 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:47:31,683 - src.base.trainer - INFO - Epoch [38/250] (78) train_mae: 49.9690, val_mae: 58.8556, lr: 0.000063, 43.9s
+2023-04-20 03:47:31,765 - src.base.trainer - INFO - Val loss decrease from 58.9618 to 58.8556, saving to True
+2023-04-20 03:48:17,941 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:48:17,942 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:48:31,173 - src.base.trainer - INFO - Epoch [39/250] (80) train_mae: 49.2945, val_mae: 58.7405, lr: 0.000063, 46.2s
+2023-04-20 03:48:31,269 - src.base.trainer - INFO - Val loss decrease from 58.8556 to 58.7405, saving to True
+2023-04-20 03:49:17,016 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:49:17,017 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:49:33,021 - src.base.trainer - INFO - Epoch [40/250] (82) train_mae: 49.9892, val_mae: 58.6645, lr: 0.000063, 45.7s
+2023-04-20 03:49:33,099 - src.base.trainer - INFO - Val loss decrease from 58.7405 to 58.6645, saving to True
+2023-04-20 03:50:17,870 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:50:17,871 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:50:33,127 - src.base.trainer - INFO - Epoch [41/250] (84) train_mae: 49.2311, val_mae: 58.5846, lr: 0.000063, 44.8s
+2023-04-20 03:50:33,205 - src.base.trainer - INFO - Val loss decrease from 58.6645 to 58.5846, saving to True
+2023-04-20 03:51:24,225 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:51:24,226 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:51:40,871 - src.base.trainer - INFO - Epoch [42/250] (86) train_mae: 49.8433, val_mae: 58.5704, lr: 0.000063, 51.0s
+2023-04-20 03:51:40,949 - src.base.trainer - INFO - Val loss decrease from 58.5846 to 58.5704, saving to True
+2023-04-20 03:52:30,359 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:52:30,360 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:52:43,704 - src.base.trainer - INFO - Epoch [43/250] (88) train_mae: 48.5080, val_mae: 58.4861, lr: 0.000063, 49.4s
+2023-04-20 03:52:43,817 - src.base.trainer - INFO - Val loss decrease from 58.5704 to 58.4861, saving to True
+2023-04-20 03:53:29,177 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:53:29,179 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:53:42,505 - src.base.trainer - INFO - Epoch [44/250] (90) train_mae: 49.2536, val_mae: 58.4851, lr: 0.000063, 45.4s
+2023-04-20 03:53:42,586 - src.base.trainer - INFO - Val loss decrease from 58.4861 to 58.4851, saving to True
+2023-04-20 03:54:26,754 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:54:26,755 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:54:40,364 - src.base.trainer - INFO - Epoch [45/250] (92) train_mae: 49.5074, val_mae: 58.4398, lr: 0.000063, 44.2s
+2023-04-20 03:54:40,449 - src.base.trainer - INFO - Val loss decrease from 58.4851 to 58.4398, saving to True
+2023-04-20 03:55:25,751 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:55:25,752 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:55:38,910 - src.base.trainer - INFO - Epoch [46/250] (94) train_mae: 49.0557, val_mae: 58.3805, lr: 0.000063, 45.3s
+2023-04-20 03:55:38,992 - src.base.trainer - INFO - Val loss decrease from 58.4398 to 58.3805, saving to True
+2023-04-20 03:56:23,358 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:56:23,359 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:56:36,523 - src.base.trainer - INFO - Epoch [47/250] (96) train_mae: 48.0496, val_mae: 58.2750, lr: 0.000063, 44.4s
+2023-04-20 03:56:36,630 - src.base.trainer - INFO - Val loss decrease from 58.3805 to 58.2750, saving to True
+2023-04-20 03:57:20,846 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:57:20,847 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:57:34,375 - src.base.trainer - INFO - Epoch [48/250] (98) train_mae: 49.6280, val_mae: 58.1945, lr: 0.000063, 44.2s
+2023-04-20 03:57:34,459 - src.base.trainer - INFO - Val loss decrease from 58.2750 to 58.1945, saving to True
+2023-04-20 03:58:19,670 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:58:19,671 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:58:32,966 - src.base.trainer - INFO - Epoch [49/250] (100) train_mae: 48.0250, val_mae: 58.1036, lr: 0.000063, 45.2s
+2023-04-20 03:58:33,098 - src.base.trainer - INFO - Val loss decrease from 58.1945 to 58.1036, saving to True
+2023-04-20 03:59:17,541 - src.base.trainer - INFO - epoch complete
+2023-04-20 03:59:17,542 - src.base.trainer - INFO - evaluating now!
+2023-04-20 03:59:31,242 - src.base.trainer - INFO - Epoch [50/250] (102) train_mae: 48.7336, val_mae: 58.0612, lr: 0.000063, 44.4s
+2023-04-20 03:59:31,336 - src.base.trainer - INFO - Val loss decrease from 58.1036 to 58.0612, saving to True
+2023-04-20 04:00:16,095 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:00:16,097 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:00:29,213 - src.base.trainer - INFO - Epoch [51/250] (104) train_mae: 48.7199, val_mae: 57.9933, lr: 0.000063, 44.8s
+2023-04-20 04:00:29,310 - src.base.trainer - INFO - Val loss decrease from 58.0612 to 57.9933, saving to True
+2023-04-20 04:01:13,730 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:01:13,731 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:01:27,373 - src.base.trainer - INFO - Epoch [52/250] (106) train_mae: 48.2663, val_mae: 57.9697, lr: 0.000063, 44.4s
+2023-04-20 04:01:27,460 - src.base.trainer - INFO - Val loss decrease from 57.9933 to 57.9697, saving to True
+2023-04-20 04:02:12,768 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:02:12,769 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:02:26,036 - src.base.trainer - INFO - Epoch [53/250] (108) train_mae: 47.5556, val_mae: 57.9583, lr: 0.000063, 45.3s
+2023-04-20 04:02:26,118 - src.base.trainer - INFO - Val loss decrease from 57.9697 to 57.9583, saving to True
+2023-04-20 04:03:10,948 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:03:10,950 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:03:24,478 - src.base.trainer - INFO - Epoch [54/250] (110) train_mae: 47.9026, val_mae: 57.9396, lr: 0.000063, 44.8s
+2023-04-20 04:03:24,556 - src.base.trainer - INFO - Val loss decrease from 57.9583 to 57.9396, saving to True
+2023-04-20 04:04:10,760 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:04:10,761 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:04:24,636 - src.base.trainer - INFO - Epoch [55/250] (112) train_mae: 48.0924, val_mae: 57.9183, lr: 0.000063, 46.2s
+2023-04-20 04:04:24,723 - src.base.trainer - INFO - Val loss decrease from 57.9396 to 57.9183, saving to True
+2023-04-20 04:05:10,463 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:05:10,465 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:05:24,127 - src.base.trainer - INFO - Epoch [56/250] (114) train_mae: 47.5451, val_mae: 57.8899, lr: 0.000063, 45.7s
+2023-04-20 04:05:24,232 - src.base.trainer - INFO - Val loss decrease from 57.9183 to 57.8899, saving to True
+2023-04-20 04:06:10,139 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:06:10,140 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:06:23,630 - src.base.trainer - INFO - Epoch [57/250] (116) train_mae: 47.3235, val_mae: 57.9117, lr: 0.000063, 45.9s
+2023-04-20 04:07:08,915 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:07:08,916 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:07:22,361 - src.base.trainer - INFO - Epoch [58/250] (118) train_mae: 47.7008, val_mae: 57.9375, lr: 0.000063, 45.3s
+2023-04-20 04:08:06,703 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:08:06,705 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:08:20,451 - src.base.trainer - INFO - Epoch [59/250] (120) train_mae: 47.1651, val_mae: 58.0000, lr: 0.000063, 44.3s
+2023-04-20 04:09:06,937 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:09:06,939 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:09:20,280 - src.base.trainer - INFO - Epoch [60/250] (122) train_mae: 46.6684, val_mae: 58.0648, lr: 0.000063, 46.5s
+2023-04-20 04:10:04,489 - src.base.trainer - INFO - epoch complete
+2023-04-20 04:10:04,490 - src.base.trainer - INFO - evaluating now!
+2023-04-20 04:10:17,942 - src.base.trainer - INFO - Epoch [61/250] (124) train_mae: 46.9036, val_mae: 58.2171, lr: 0.000063, 44.2s
+2023-04-20 04:10:17,946 - src.base.trainer - INFO - Early stop at epoch 62, loss = 57.889896

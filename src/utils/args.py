@@ -30,7 +30,7 @@ def get_public_config():
     # training
     parser.add_argument('--max_epochs', type=int, default=250) 
     parser.add_argument('--save_iter', type=int, default=400)
-    parser.add_argument('--max_grad_norm', type=float, default=5.0)
+    parser.add_argument('--max_grad_norm', type=float, default=1.0)
     parser.add_argument('--patience', type=int, default=5)
 
     # test

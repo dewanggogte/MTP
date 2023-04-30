@@ -266,6 +266,7 @@ class BaseTrainer():
                     'saving to {}'.format(np.min(val_losses), val_loss, model_file_name))
                 val_losses.append(val_loss)
                 saved_epoch = epoch
+            self.save_preds(saved_epoch)
 
     def evaluate(self):
         '''
@@ -312,6 +313,7 @@ class BaseTrainer():
 
         labels = torch.cat(labels, dim=0)
         preds = torch.cat(preds, dim=0)
+        self.save_preds(0)
 
         if self.model.horizon == 24: 
             amae_day = []
@@ -371,6 +373,6 @@ class BaseTrainer():
             labels = torch.cat(labels, dim=0)
             preds = torch.cat(preds, dim=0)
             inputs = torch.cat(inputs, dim=0)
-
             np.save(os.path.join(self.save_path, mode + '_preds.npy'), preds)
+            print(os.path.join(self.save_path, mode + '_preds.npy'))
             np.save(os.path.join(self.save_path, mode + '_labels.npy'), labels)

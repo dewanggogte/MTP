@@ -13,9 +13,12 @@ def get_dataloader(datapath, batch_size, output_dim, mode='train'):
     processed = {}
     results = {}
     for category in ['train', 'val', 'test']:
-        cat_data = np.load(os.path.join(datapath, category + '.npz'))
+        print(os.path.join(datapath, category + '.npy'))
+        cat_data = np.load(os.path.join(datapath, category + '.npy'), allow_pickle=True).item()
+        print(type(cat_data))
         data['x_' + category] = cat_data['x']
         data['y_' + category] = cat_data['y']
+        print("CAT", category, cat_data['x'].shape, cat_data['y'].shape)
 
     scalers = []
     for i in range(output_dim):
@@ -31,6 +34,7 @@ def get_dataloader(datapath, batch_size, output_dim, mode='train'):
 
         new_x = Tensor(data['x_' + category])
         new_y = Tensor(data['y_' + category])
+        print("New", category, new_x.shape, new_y.shape)
         processed[category] = TensorDataset(new_x, new_y)
 
     results['train_loader'] = DataLoader(processed['train'], batch_size, shuffle=True)
@@ -59,6 +63,6 @@ def check_device(device=None):
             return torch.device(device)
 
 def get_num_nodes(dataset):
-    d = {'AIR_TINY': 1085}
+    d = {'AIR_TINY': 1085, 'MTP': 1}
     assert dataset in d.keys()
     return d[dataset]

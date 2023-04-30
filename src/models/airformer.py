@@ -212,8 +212,8 @@ class AirFormer(BaseModel):
         supports: adjacency matrix (actually our method doesn't use it)
                 Including adj here is for consistency with GNN-based methods
         '''
-        x_embed = self.embedding_air(inputs[..., 11:15].long())
-        x = torch.cat((inputs[..., :11], x_embed, inputs[..., 15:]), -1)
+        # x_embed = self.embedding_air(inputs[..., 0].long())
+        x = inputs#torch.cat((inputs[..., :11], x_embed, inputs[..., 15:]), -1)
 
         x = x.permute(0, 3, 2, 1)  # [b, c, n, t]
         x = self.start_conv(x)
@@ -380,10 +380,10 @@ class TemporalAttention(nn.Module):
 
         self.dim = dim
         self.num_heads = heads
-        self.causal = causal
+        self.causal = False
         head_dim = dim // heads
         self.scale = qk_scale or head_dim ** -0.5
-        self.window_size = window_size
+        self.window_size = 2#window_size
 
         self.qkv = nn.Linear(dim, dim * 3, bias=qkv_bias)
 
