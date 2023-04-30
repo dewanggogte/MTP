@@ -313,7 +313,7 @@ class BaseTrainer():
 
         labels = torch.cat(labels, dim=0)
         preds = torch.cat(preds, dim=0)
-        self.save_preds(0)
+        self.save_preds(epoch)
 
         if self.model.horizon == 24: 
             amae_day = []
@@ -343,7 +343,8 @@ class BaseTrainer():
         else:
             print('The output length is not 24!!!')
 
-        mask_sudden_change = mc.sudden_changes_mask(labels, datapath = './data/AIR_TINY', null_val = 0.0, threshold_start = 75, threshold_change = 20)
+        mask_sudden_change = mc.sudden_changes_mask(labels, datapath = './data/MTP', null_val = 
+0.0, threshold_start = 75, threshold_change = 20)
         results.iloc[3, 0] = Time_list[3]
         sc_mae, sc_rmse = mc.compute_sudden_change(mask_sudden_change, preds, labels, null_value = 0.0)
         results.iloc[3, 1:] = [sc_mae, sc_rmse]

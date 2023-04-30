@@ -35,7 +35,7 @@ def get_config():
     parser.add_argument('--spatial_flag', type=str_to_bool,
                         default=True, help='whether to use spatial transformer')
 
-    parser.add_argument('--base_lr', type=float, default=1e-6)
+    parser.add_argument('--base_lr', type=float, default=1e-3)
     parser.add_argument('--lr_decay_ratio', type=float, default=0.5)
     args = parser.parse_args()
     args.steps = [12000]
